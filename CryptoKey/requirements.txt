@@ -1,0 +1,4 @@
+pyperclip
+cryptography
+base58
+pycryptodome
